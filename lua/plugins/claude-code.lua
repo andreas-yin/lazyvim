@@ -18,7 +18,7 @@ return {
       ft = { "NvimTree", "neo-tree", "oil", "minifiles" },
     },
     -- Diff management
-    { "<leader>aa", "<cmd>ClaudeCodeDiffAccept<cr>", desc = "Accept diff" },
+    { "<leader>aaa", "<cmd>ClaudeCodeDiffAccept<cr>", desc = "Accept diff" },
     { "<leader>ad", "<cmd>ClaudeCodeDiffDeny<cr>", desc = "Deny diff" },
   },
 }
